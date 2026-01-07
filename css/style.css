@@ -126,3 +126,10 @@ tbody tr {
 button {
     transition: all 0.2s ease-in-out;
 }
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  color: #9ca3af;
+  font-size: 12px;
+}
